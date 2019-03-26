@@ -1,0 +1,6 @@
+{
+    "parser": "babel-eslint",
+    "rules": {
+        "no-find-dom-node": "off"
+    }
+}
